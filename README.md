@@ -1,2 +1,2 @@
 # Pattern_problems
-Patterns in data structures
+### A quick reference to improve my problem solving skills
